@@ -1,24 +1,5 @@
-## Cloud Security and Security 'at large'
- **All my research and I hope the top of Repos (Optimized)
- **Good surf!
-
-![Digital Archeology's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=digitalarche&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
-
-<!--
-**digitalarche/digitalarche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- [Blog](https://#)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" width="75%" src="./github-metrics.svg" />
